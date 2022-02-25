@@ -149,6 +149,12 @@ https://www.youtube.com/watch?v=ep2JsATso3c
 
 7. Conclusiones
 
+El fasor se caracteriza por se una cantidad que cambia dependiendo del tiempo, pero en la electronica se le considera un vector y en est caso se presenta en dos tipos de coordenadas  rectangulares  representadas de (A + jB) y las polares  (C∠θ), es de gran importancia idedntificar la coordenada que se presente en cualquier caso, puesto que no son iguales y de igual manera cuando se las representa en gràficas no tienen las mismas caracteristicas. 
+
+Al momneto de trabajar tanto con coordenadas polares como con las coordenadas rectangulares se pueden realizar diferentes operaciones, como transformaciones, suma, resta, multiplicasión y división , pero para realizar estas operacioones manualmente es complejo por ello se recomienda trabajar coon coordenadas rectangulares para lo que es suma y resta y cuando se trata de división y multiplicasión es viable tener coordenadas polares. Para transformar polares a rectangulares e inversamente se utiliza unas formulas específicas quefacilitan el proceso. 
+
+Los ejercicios que se combina tanto suma, resta, multiplicación y división son complejos de realizarlos paso a paso manualmento sin uso de alguna calculadora, puesto que se debe ralizar diferentes transformaciones que faciliten el procedimiento, sin embargo con el uso de la calculadora  CASIO fx9860 el resultado se lo puede ennontrar de inmediato puesto que al momento de ingresar los datos puede dar la solución ya sea en rectangualeres o polares y eso depende de como se le configure a la calculadora. 
+
 8. Bibliografía 
 
 Floyd, T.(2007). /Principio de Circuitos Eléctricos/. Pearson, Prentice Hall
