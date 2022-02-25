@@ -147,6 +147,6 @@ En polar:
 
 7. Conclusiones
 
-8. Buibliografía 
+8. Bibliografía 
 
 Floyd, T.(2007). /Principio de Circuitos Eléctricos/. Pearson, Prentice Hall
